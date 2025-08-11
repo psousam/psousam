@@ -25,7 +25,6 @@
 - 🛡 **Projet DnD** : Jeu Donjons & Dragons avec interface graphique en Python  
 - 🏗 **Application d’arbre généalogique** (Rust + interface graphique)
 -    **Projet Universitaires**
--    ****
 
 ---
 
@@ -39,9 +38,9 @@
 ---
 
 ## 📫 Me contacter
-- ✉ **Email** : pierre.samuel.bk@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pierresamuelbk)  
-- 🖥 [Portfolio](https://github.com/pierresamuelbk)
+- ✉ **Email** : samuelkach2001@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pierre-samuel-bashaga-kachungunu-16b30529a/)  
+- 🖥 [Portfolio](https://github.com/psousam)
 
 ---
 
