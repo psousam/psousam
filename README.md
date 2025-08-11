@@ -24,6 +24,8 @@
 ## 📌 Projets phares
 - 🛡 **Projet DnD** : Jeu Donjons & Dragons avec interface graphique en Python  
 - 🏗 **Application d’arbre généalogique** (Rust + interface graphique)
+- 🎼 **Base de données pour chorale (2024–2025)**
+Conception et structuration d’une bibliothèque numérique pour partitions et enregistrements audio via Notion, avec migration en cours vers une application sur mesure.
 -    **Projet Universitaires**
 
 ---
