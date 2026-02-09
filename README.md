@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Pierre Samuel Bashaga Kachungunu
 
-🎓 **MSc1 à Epitech Bordeaux** après une licence **MIASHS** (sciences cognitives, modélisation, IA, data science et biomédical).  
+🎓 **Master IRM Biomédical** après une licence **MIASHS** (sciences cognitives, modélisation, IA, data science et biomédical).  
 💻 Passionné par le **développement logiciel**, l’**intelligence artificielle** et le **biomédical**.
 
 ---
